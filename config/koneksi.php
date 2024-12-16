@@ -1,7 +1,7 @@
 <?php 
 $host = "localhost";
 $username = "root";
-$password = "599383910";
+$password = "";
 $dbname = "db_absensi";
 
 try {
